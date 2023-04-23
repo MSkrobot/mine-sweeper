@@ -15,7 +15,7 @@ To start a new game, simply click once on the game screen.
 
 ### Restarting the Game
 
-To restart the game, simply click once on the game screen. This will generate a new game board with a random placement of bombs.
+To restart the game, click on the game screen. This will generate a new game board with a random placement of bombs.
 
 ## Development
 
