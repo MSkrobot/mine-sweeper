@@ -1,6 +1,6 @@
 # Minesweeper Game
 
-This is a simple implementation of the classic Minesweeper game, written in JavaScript. The game is played by uncovering tiles and possibly flagging them, with the objective of revealing all tiles that do not contain a bomb.
+This is a simple implementation of the classic Minesweeper game, written in JavaScript. The game is played by revealing tiles, with the objective of finding all tiles that do not contain a bomb.
 
 ## How to Play
 
