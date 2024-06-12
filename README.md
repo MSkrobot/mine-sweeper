@@ -1,5 +1,7 @@
 # Minesweeper Game
 
+![Screenshot](minesweeper.png)
+
 This is a simple implementation of the classic Minesweeper game, written in JavaScript. The game is played by revealing tiles, with the objective of finding all tiles that do not contain a bomb.
 
 ## How to Play
